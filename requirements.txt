@@ -23,6 +23,7 @@ darkdetect==0.8.0
 deep-translator==1.11.4
 discord==2.3.2
 discord.py==2.5.2
+dj-database-url==3.0.1
 Django==5.2.4
 django-storages==1.14.6
 dnspython==2.7.0
