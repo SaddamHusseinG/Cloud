@@ -76,7 +76,6 @@ PyScreeze==1.0.1
 PySocks==1.7.1
 python-dateutil==2.9.0.post0
 pytweening==1.2.0
-pywin32==311
 pywin32-ctypes==0.2.3
 pyzipper==0.3.6
 rarfile==4.2
